@@ -1,0 +1,8 @@
+
+PAGE CREATED WITH:
+HTML and CSS /The position Property, flex-box
+Google Fonts
+Animate.css
+@keyframes
+CSS @media Rule
+mobile adaptive
